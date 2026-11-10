@@ -1,0 +1,58 @@
+{
+  "inventory": {
+    "fruits": [
+      {
+        "id": "f-01",
+        "name": "Apple",
+        "category": "Fruits"
+      },
+      {
+        "id": "f-02",
+        "name": "Banana",
+        "category": "Fruits"
+      },
+      {
+        "id": "f-03",
+        "name": "Orange",
+        "category": "Fruits"
+      },
+      {
+        "id": "f-04",
+        "name": "Strawberry",
+        "category": "Fruits"
+      },
+      {
+        "id": "f-05",
+        "name": "Blueberry",
+        "category": "Fruits"
+      }
+    ],
+    "vegetables": [
+      {
+        "id": "v-01",
+        "name": "Carrot",
+        "category": "Vegetables"
+      },
+      {
+        "id": "v-02",
+        "name": "Broccoli",
+        "category": "Vegetables"
+      },
+      {
+        "id": "v-03",
+        "name": "Spinach",
+        "category": "Vegetables"
+      },
+      {
+        "id": "v-04",
+        "name": "Potato",
+        "category": "Vegetables"
+      },
+      {
+        "id": "v-05",
+        "name": "Cucumber",
+        "category": "Vegetables"
+      }
+    ]
+  }
+}
